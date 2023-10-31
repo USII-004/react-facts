@@ -33,7 +33,7 @@ const Nav = (props) => {
             }
           ></div>
         </div>
-        <p className='text-[#33373E]'>Dark</p>
+        <p className='text-[#21222A]'>Dark</p>
       </div>
     </div>
   )
