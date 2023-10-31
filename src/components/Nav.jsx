@@ -16,7 +16,7 @@ const Nav = (props) => {
         <h2 className='self-center text-xl font-bold md:text-4xl'>ReactFacts</h2>
       </div>
       <div className='flex self-center mx-2 text-xs font-bold md:mx-32 md:text-lg'>
-        <p className='text-[#f5f5f5]'>Light</p>
+        <p className='text-[#ffffff]'>Light</p>
         <div
           onClick={props.handleClick} 
           className={
